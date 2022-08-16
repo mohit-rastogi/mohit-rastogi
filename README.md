@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohit-rastogi
-- 👀 I’m interested in neurodevelopment, alternative splciing, gene regulation and evolution.
+- 👀 I’m interested in neurodevelopment, alternative splicing, gene regulation and evolution.
 - 🌱 I’m currently working on Down syndrome and performing multi-omics analysis (Total RNA-seq, proteomics and small RNA-seq)on human post-mortem brain samples.
 - 📫 How to reach me: 
 - email me on mohitrastogi9@gmail.com or
